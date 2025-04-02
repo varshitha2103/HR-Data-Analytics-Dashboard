@@ -1,4 +1,4 @@
-📊 HR Data Analytics Dashboard – Tableau Project
+📊 HR Data Analytics Dashboard 
 
 This project showcases an interactive HR Data Analytics Dashboard built using Tableau, designed to provide deep insights into employee demographics, attrition trends, job satisfaction, and workforce distribution. The dashboard helps HR teams make data-driven decisions to improve employee retention, engagement, and organizational planning.
 
